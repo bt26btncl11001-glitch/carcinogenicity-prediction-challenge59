@@ -1,0 +1,13 @@
+alert,n,carcinogens,carc_rate,enrichment,p_one_sided
+Benzylic / allylic halide,1,1,1.0,4.72,0.2117
+Alkyl sulfonate / sulfate,1,1,1.0,4.72,0.2117
+Hydrazine,8,8,1.0,4.72,0.0
+Azo (aromatic),15,14,0.933,4.41,0.0
+Alkyl halide,5,4,0.8,3.78,0.0078
+N-nitroso,2,1,0.5,2.36,0.3792
+Aromatic amine,32,12,0.375,1.77,0.0185
+Aromatic nitro,4,1,0.25,1.18,0.6161
+Aldehyde,4,1,0.25,1.18,0.6161
+Michael acceptor,35,3,0.086,0.4,0.9909
+Epoxide / aziridine,4,0,0.0,0.0,1.0
+PAH (3+ fused rings),1,0,0.0,0.0,1.0

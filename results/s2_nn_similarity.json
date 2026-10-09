@@ -1,0 +1,22 @@
+{
+  "Random CV": {
+    "mean": 0.405,
+    "median": 0.353,
+    "frac_below_0.4": 0.544
+  },
+  "Scaffold CV": {
+    "mean": 0.33,
+    "median": 0.286,
+    "frac_below_0.4": 0.73
+  },
+  "Random holdout": {
+    "mean": 0.407,
+    "median": 0.353,
+    "frac_below_0.4": 0.587
+  },
+  "Scaffold holdout": {
+    "mean": 0.345,
+    "median": 0.292,
+    "frac_below_0.4": 0.674
+  }
+}

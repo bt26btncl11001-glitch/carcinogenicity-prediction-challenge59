@@ -1,0 +1,13 @@
+{
+  "n_raw": 280,
+  "n_invalid_or_inorganic": 0,
+  "n_conflicting_label_smiles": 2,
+  "n_consistent_duplicate_rows_removed": 2,
+  "n_final": 274,
+  "n_carcinogen": 58,
+  "n_non_carcinogen": 216,
+  "carcinogen_fraction": 0.2117,
+  "official_overlap_train_test": 1,
+  "official_overlap_train_valid": 3,
+  "official_overlap_valid_test": 0
+}

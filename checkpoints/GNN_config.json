@@ -1,0 +1,10 @@
+{
+  "arch": "GIN-residual, 3 layers, hidden 64, dropout 0.2, mean+sum readout",
+  "atom_features": 30,
+  "epochs": 100,
+  "batch_size": 32,
+  "lr": 0.002,
+  "weight_decay": 0.001,
+  "loss": "BCE with pos_weight",
+  "threshold": 0.5
+}
